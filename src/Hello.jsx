@@ -14,7 +14,7 @@ import { Download } from './stories/Input.stories';
 // }
 class Hello extends Component {
     static defaultProps = {
-        name:'이름없음',
+        name:'이름fsdasdsadfdsfsd없음',
     };
     
     render(){
